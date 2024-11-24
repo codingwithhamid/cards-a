@@ -10,6 +10,9 @@
     flex-wrap: wrap;
     justify-content: center;
     /* background-color: rgb(249, 247, 243); */
+    height: 600px;
+    align-items: center;
+    overflow: hidden;
   
 }
 .card{
